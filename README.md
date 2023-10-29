@@ -22,7 +22,7 @@ Todos os valores (dinheiro) são representados em centavos. Por exemplo, R$ 10,0
 
 ## Estrutura do Projeto
 
-
+![Estrutura do Projeto](./estrutura.png)
 
 O projeto está organizado da seguinte forma:
 
